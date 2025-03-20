@@ -1,67 +1,58 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Zilong Wang",
+    "email": "geoscience@no-spam.pku.edu.cn (please remove 'no-spam-email' field)",
+    "phone": "+49 (0)162 6544986",
+    "website": "https://oldkingzlwang.github.io",
+    "summary": "Currently a PhD candicate at Peking University, majoring in planetary material science.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Yiheyuan Road No.5",
+      "postalCode": "100871",
+      "city": "Beijing",
+      "countryCode": "China",
+      "region": "Asia"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=2MWEPTIAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0000-0003-3018-1060"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "oldkingzlwang (Dragon Prince)",
+        "url": "https://github.com/oldkingzlwang"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "Peking University",
+      "area": "Ph.D in Geology (Mineralogy, petrology and economic geology)",
+      "studyType": "Bachelor-straight-to-doctorate",
+      "startDate": "2022",
+      "endDate": "2027",
+      "gpa": 3.79,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Peking University",
+      "area": "Bsc in Geochemistry",
+      "studyType": "Independent recruitment",
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": 3.64,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": ["Chinese", "English"],
   "interests": [],
   "references": [],
   "publications": [

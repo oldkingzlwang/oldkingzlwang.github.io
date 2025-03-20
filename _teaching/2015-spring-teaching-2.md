@@ -10,4 +10,4 @@ location: "Beijing, China"
 
 Teaching assistant for Planetary Material Science
 
-![Students are in the field trip in Zhangjiakou City, on 26th October 2021.](20241026-teaching.jpg "Planetary Material Science")
+![Students are in the field trip in Zhangjiakou City, on 26th October 2021.](20241026-teaching.JPG "Planetary Material Science")

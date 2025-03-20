@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 I was born in Shandong Province, China, in February 2000. I am now a PhD student in School of Earth and Space Sciences, Peking University. I am interested in meteoritics, igneous petrology, mineralogy, and planetary volcanology.
+
+Please find my newest version of CV here: [Zilong's Curriculum Vitae](.../assets/main.pdf).

@@ -10,6 +10,6 @@ location: "Beijing, China"
 
 Teaching assistant for General Petrology 
 
-![Students are observing thin sections of igneous rocks, on 8th November 2021.](2021年11月8日行星物质科学课程实况 (1).jpg "General Petrology")
+![Students are observing thin sections of igneous rocks, on 8th November 2021.](20211108-1.jpg "General Petrology")
 
-![Students are observing thin sections of igneous rocks, on 8th November 2021.](2021年11月8日行星物质科学课程实况 (2).jpg "General Petrology")
+![Students are observing thin sections of igneous rocks, on 8th November 2021.](20211108-2.jpg "General Petrology")

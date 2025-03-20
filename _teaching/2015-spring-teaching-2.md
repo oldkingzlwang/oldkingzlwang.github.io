@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant for Planetary Material Science"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2023
+venue: "School of Earth and Space Sciences, Peking University"
+date: 2021.09 - 2022.01, 2023.02 - 2023.06, 2024.02 - 2024.06
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for Planetary Material Science
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+![Students are in the field trip in Zhangjiakou City, on 26th October 2021.](20241026-teaching.jpg "Planetary Material Science")

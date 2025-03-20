@@ -13,7 +13,7 @@ title                    : "Zilong Wang's personal website"
 title_separator          : "-"
 name                     : &name "Zilong Wang"
 description              : &description "personal description"
-url                      : https://oldkingzlwang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://oldkingzlwang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oldkingzlwang/oldkingzlwang.github.io"
 
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :

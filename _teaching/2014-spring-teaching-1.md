@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant for General Petrology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2021
+venue: "School of Earth and Space Sciences, Peking University"
+date: 2021.09 - 2022.01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for General Petrology 
 
-Heading 1
-======
+![Students are observing thin sections of igneous rocks, on 8th November 2021.](2021年11月8日行星物质科学课程实况 (1).jpg "General Petrology")
 
-Heading 2
-======
-
-Heading 3
-======
+![Students are observing thin sections of igneous rocks, on 8th November 2021.](2021年11月8日行星物质科学课程实况 (2).jpg "General Petrology")

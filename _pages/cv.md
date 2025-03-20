@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+![I stand next to the monument to the "First Oil Well in Daqing City, Heilongjiang Province". Photo taken on July 13, 2022.](cv_profile.jpg)
+
+I stand next to the monument of the "First Oil Well in Daqing City, Heilongjiang Province". Photo taken on July 13, 2022.
+
 Education
 ======
 * **Ph.D** in [Geology (Mineralogy, petrology and economic geology)](https://sess.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), 2027 (expected)

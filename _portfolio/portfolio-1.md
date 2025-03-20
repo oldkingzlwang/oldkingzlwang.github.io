@@ -12,7 +12,7 @@ Looking back now, I can’t help but feel that my younger self was bold, idealis
 
 以现在的眼光看，那个时候的自己年少轻狂、不知天高地厚，还有些卖弄做作之嫌，读起来令人属实倍感尴尬。但这确实是当年我实实在在希望自己能达到的那种状态。这便是我从事科学事业的初心吧——因此也不嫌羞耻地放在这里，对现在的自己也是一种鞭策。
 
-![](../images/20180208.JPG)
+![](/images/20180208.JPG)
 
 **The meaning of the text in the image is as follows:**
 

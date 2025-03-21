@@ -48,19 +48,19 @@ Skills
 
 # Project and funding
 
-##### Constraints of volatile-bearing minerals in Qued Mya 005 meteorite on the evolution of volatiles in the Amazonian period on Mars
+**Constraints of volatile-bearing minerals in Qued Mya 005 meteorite on the evolution of volatiles in the Amazonian period on Mars**
 
 - National Natural Science Foundation of China
 - 2025-01 to 2026-12
-- **Project leader**
+- Project leader
 - Grant Number: 424B2020
 - Total funding amount: CNY 300,000
 
-##### Constraints from nakhlite and related meteorites on Martian basaltic volcanism and crustal structure
+**Constraints from nakhlite and related meteorites on Martian basaltic volcanism and crustal structure**
 
 - National Natural Science Foundation of China
 - 2023-01 to 2026-12
-- **Participate (Key Member)**
+- Participate (Key Member)
 - Grant Number: 42272348
 - Total funding amount: CNY 570,000
 

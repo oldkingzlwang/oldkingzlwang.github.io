@@ -1,6 +1,6 @@
 ---
 title: "Workshop on Phase Field Modelling and Applications in Earth Sciences Successfully Held at Ruhr-Universität Bochum"
-excerpt: "My first workshop attend at Ruhr-Universität Bochum.<br/><img src='/images/unnamed.jpg'>"
+excerpt: "My first workshop attend at Ruhr-Universität Bochum.<br/><img src='/images/20250204-1.jpg'>"
 collection: portfolio
 ---
 

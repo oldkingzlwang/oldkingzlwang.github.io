@@ -13,7 +13,9 @@ redirect_from:
 
 ---
 
-I was born in [Shandong Province](https://en.wikipedia.org/wiki/Shandong), [China](https://en.wikipedia.org/wiki/China), in February 2000. I am now a PhD student in [School of Earth and Space Sciences, Peking University](https://sess2.pku.edu.cn/english/index.htm). I am dedicated to becoming a professional researcher in the field of planetary science, with a particular focus on meteoritics, petrology, mineralogy, and volcanology. Please find my newest version of CV here: [Zilong's Curriculum Vitae](main.pdf).
+I was born in [Shandong Province](https://en.wikipedia.org/wiki/Shandong), [China](https://en.wikipedia.org/wiki/China), in February 2000. I am now a PhD student in [School of Earth and Space Sciences, Peking University](https://sess2.pku.edu.cn/english/index.htm). I am dedicated to becoming a professional researcher in the field of planetary science, with a particular focus on meteoritics, petrology, mineralogy, and volcanology. 
+
+Please find my newest version of CV here: [Zilong's Curriculum Vitae](main.pdf).
 
 ## About my name
 

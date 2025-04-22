@@ -7,7 +7,7 @@ excerpt: 'This paper is about the basic petrology and mineralogy of NWA 14758 an
 date: 2024-03-12
 venue: '55th Lunar and Planetary Science Conference'
 paperurl: 'http://oldkingzlwang.github.io/files/Conf_1353.pdf'
-citation: 'Su A., Wang Z. L., Tian W., Wang W.-R. (2024). &quot;Northwest Africa 14758 and 15507: clues for evolution of angrites parent body.&quot; <i>54th Lunar and Planetary Science Conference</i>. 1353.'
+citation: 'Su A., Wang Z. L., Tian W., Wang W.-R. (2024). &quot;Northwest Africa 14758 and 15507: clues for evolution of angrites parent body.&quot; <i>55th Lunar and Planetary Science Conference</i>. 1353.'
 ---
 
 The 55th Lunar and Planetary Science Conference (LPSC) is held in The Woodlands, Texas and virtually on March 11–15, 2024. LPSC is a defining event in planetary research, bringing together a diverse group of international experts in a truly collaborative environment. For 55 years, LPSC has been convening the lunar and planetary science community to showcase the latest science, research, and discoveries in the field.
